@@ -7,7 +7,7 @@
        -   *2018-03-11* [**Release Version**]()
   -   **Chapter 4: Objects and Classes** | 对象与类
        -   *2018-03-14* [**Release Version**]()
-  -   Chapter 5: Inheritance | 继承
+  -   **Chapter 5: Inheritance** | 继承
        -   *2018-03-17* [**Release Version**]()
   -   *Updating ...*
 
