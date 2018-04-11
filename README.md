@@ -9,6 +9,9 @@
        -   *2018-03-14* [**Release Version**]()
   -   **Chapter 5: Inheritance** | 继承
        -   *2018-03-17* [**Release Version**]()
+       -   *(跑路实践 javafx)*
+  -   **Chapter 6: Interface, Lambda Expression, and Inner Classes** | 接口,Lambda表达式,代理
+       -   *2018-04-11* [**Release Version**]()
        -   *Updating ...(跑路实践 javafx)*
 
 
